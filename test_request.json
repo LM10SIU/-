@@ -1,0 +1,11 @@
+{
+  "bot_id": "7594900019086999602",
+  "user_id": "test_user",
+  "additional_messages": [
+    {
+      "role": "user",
+      "content": "你好",
+      "content_type": "text"
+    }
+  ]
+}
